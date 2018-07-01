@@ -1,4 +1,5 @@
 # Command Line Interpreter - CLI
+A Command Line Interpreter made in C++ which supports commands like quit, remove, rename, rmdir, echo, out, zip, unzip.
 
 ## Problem Statement
 
